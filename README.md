@@ -1,4 +1,4 @@
-# (VacationTrackingSystem)
+# Vacation Tracking System
 ---
 
 ## Vision
