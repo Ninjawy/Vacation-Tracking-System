@@ -10,8 +10,8 @@ policies.
 
 ### Index
 1. [Requirements](#requirements)
-    1.i  [Functional requirements](#functional)
-    1.ii [Non-Functional requirements](#nonfunctional)
+    - [Functional requirements](#functional)
+    - [Non-Functional requirements](#nonfunctional)
 2. [Use Cases](#usecases)
 3. [Use Case Actors](#usecasesactors)
 4. [Use Case: Manage Time](#managetime)
