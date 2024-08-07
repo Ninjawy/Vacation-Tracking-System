@@ -132,7 +132,7 @@ policies.
 
 ---
 
-## Database-Entity Diagram <a name="dbdiagram"></a>:
+## Database-Entity Diagram: <a name="dbdiagram"></a>
 1. Employees: Stores information about employees in VTS;
 2. Manager: A relation which stores manager and employees of his/her responsability;
 3. HRClerk: A relation which stores HR clerk and employees of his/her responsabilit;
@@ -148,7 +148,7 @@ policies.
 ![UseCaseDiagram](https://github.com/user-attachments/assets/9565d6d9-69e0-437f-ad64-39ecdf6d294a)
 
 ---
-## FLow Diagram: <a name="flowdiagram"></a>:
+## FLow Diagram: <a name="flowdiagram"></a>
 ![EmployeeFlowchart](https://github.com/user-attachments/assets/5777efd8-0961-4131-8c73-f98bdbcb9e26)
 ![ManagerFlowChart](https://github.com/user-attachments/assets/2913864a-1665-49d3-8d85-a255b8f7cf37)
 ![HRClerkFLowChart](https://github.com/user-attachments/assets/3eea3066-51ba-48bc-bf72-cfeafc0e9d37)
